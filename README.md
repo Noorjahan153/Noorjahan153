@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Noorjahan
 
-🌥️ Aspiring DevOps Engineer  
+🌥️ Devops engineer intern
 🎓 Computer Science Graduate  
 📍 Hyderabad, India  
 
